@@ -1,0 +1,7 @@
+{
+    "name": "WAM",
+    "version": "1.0.0",
+    "devDependencies": {
+        "electron": "^3.0.4"
+    }
+}
