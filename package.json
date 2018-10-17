@@ -1,7 +1,15 @@
 {
-    "name": "WAM",
-    "version": "1.0.0",
-    "devDependencies": {
-        "electron": "^3.0.4"
-    }
+  "name": "WAM",
+  "version": "1.0.0",
+  "description": "Analyzes websites man",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/Snoopbobb/WAM",
+  "author": "Bob Tabor",
+  "devDependencies": {
+    "electron": "^3.0.4",
+    "google-analytics-electron": "^0.1.2"
+  }
 }
